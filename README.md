@@ -6,5 +6,5 @@ Description: This is a professional portolio that shows the curated projects tha
 
 Github Link: https: https://github.com/Lexcodes26/professional-portfolio
 
-Website Link: https://jaspreetkhela.github.io/Module-2-Weekly-Challenge-Advanced-CSS-Challenge-Professional-Portfolio
+Website Link: https://lexcodes26.github.io/professional-portfolio/
 
